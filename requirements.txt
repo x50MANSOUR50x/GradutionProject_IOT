@@ -1,0 +1,7 @@
+Adafruit Fingerprint Sensor Library
+Adafruit Unified Sensor Library
+Wire Library (included with Arduino IDE)
+LiquidCrystal I2C Library
+Keypad Library
+RemoteXY Library
+WiFi Library (for ESP32/ESP8266)
